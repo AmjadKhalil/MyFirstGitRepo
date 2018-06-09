@@ -1,0 +1,2 @@
+Yet another new file - file4!
+let's add it and commit!
